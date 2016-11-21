@@ -1,0 +1,37 @@
+1. De volgende kaarten leren je hoe je een geweldig menu kunt maken voor je website met behulp van *hyperlinks*. Dit is een veel gavere versie van het menu dat je gemaakt hebt met de Beginner Sushi Kaarten. Open eerst *sjabloon.html* en voeg een lijst met links toe aan de *header* div tag, als volgt:
+
+  ```html
+  <div class="header">
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="over.html">Over Mij</a></li>
+            <li><a href="projecten.html">Projecten</a></li>
+        </ul>
+    </nav>
+  </div>
+  ```
+  > ### Nav Tags
+    De *nav* tag vertelt de browser (en middelen die slechtzienden gebruiken) dat dit stukje van de pagina de *navigatie* is, welke gebruikt wordt om op de website te navigeren.
+
+2. Laad *sjabloon.html* in je browser. Het ziet er niet mooi uit, of wel? Je moet ervoor zorgen dat die lijst er mooi uit komt te zien! Je kunt dit natuurlijk doen door wat *classes* en wat *CSS* toe te voegen. Voeg een *menu* class aan *ul* tag toe en een *menu-knop* class aan elke van de *a* tags.
+3. Nu ga je stukje bij beetje de *CSS* bewerken in *style.css*, zodat je de veranderingen kunt zien.
+
+  Zorg er eerst voor dat de lijst zichzelf rangschikt als een menu:
+    ```css
+    .menu {
+      margin: 5px auto 10px auto;
+      list-style:none;
+      text-align: center;
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .menu > li {
+      display: inline-block;
+    }
+    ```
+    > ### Flex
+      Het *display: flex* in *.menu* is erg krachtig. Hoe *flex* precies werkt voor de opmaak van paginas zou een hele Sushi Serie in beslag nemen, maar je kunt meer hierover zien op [dojo.soy/a-html-flex](dojo.soy/a-html-flex).
+
+4. Je hebt een menu dat verbindingen legt tussen je pagina's en het staat op de juiste plek, je kunt het nog gaver maken! De classes staan al op de juiste plek, nu hoef je alleen nog meer *CSS* toe te voegen. Hoe, dat staat op de volgende kaart!
