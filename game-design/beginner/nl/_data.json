@@ -1,0 +1,56 @@
+{
+  "01": {
+    "titel": "Winnen en Verliezen",
+    "bestandsnaam": "01",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 1,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
+  },
+  "02": {
+    "titel": "Spelonderdelen",
+    "bestandsnaam": "02",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 2,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
+  },
+  "03": {
+    "titel": "De speler en het spel",
+    "bestandsnaam": "03",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 3,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
+  },
+  "04": {
+    "titel": "Spelervaring",
+    "bestandsnaam": "04",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 4,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
+  },
+  "05": {
+    "titel": "Thema",
+    "bestandsnaam": "05",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 5,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
+  },
+  "06": {
+    "titel": "Je spel opbouwen",
+    "bestandsnaam": "06",
+    "taal": "spellen",
+    "onderwerp": "spellen",
+    "kaart_nummer": 6,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "12 onderdelen die elk videospel heeft"
+  }
+}
