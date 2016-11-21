@@ -1,0 +1,86 @@
+{
+  "01": {
+    "titel": "Een Website Bouwen",
+    "bestandsnaam": "01",
+    "taal": "html",
+    "onderwerp": "html",
+    "kaart_nummer": 1,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "Gevorderden HTML/CSS",
+    "auteur": {
+      "naam": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "02": {
+    "titel": "Raamwerk van je Website",
+    "bestandsnaam": "02",
+    "taal": "html",
+    "onderwerp": "html",
+    "kaart_nummer": 2,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "Gevorderden HTML/CSS",
+    "auteur": {
+      "naam": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "03": {
+    "titel": "Basis Menu",
+    "bestandsnaam": "03",
+    "taal": "html",
+    "onderwerp": "html",
+    "kaart_nummer": 3,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "Gevorderden HTML/CSS",
+    "auteur": {
+      "naam": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "04": {
+    "titel": "Een Geweldig Menu",
+    "bestandsnaam": "04",
+    "taal": "html",
+    "onderwerp": "html",
+    "kaart_nummer": 4,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "Gevorderden HTML/CSS",
+    "auteur": {
+      "naam": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "05": {
+    "titel": "Fantastische Koppen",
+    "bestandsnaam": "05",
+    "taal": "html",
+    "onderwerp": "html",
+    "kaart_nummer": 5,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "Gevorderden HTML/CSS",
+    "auteur": {
+      "naam": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "06": {
+    "titel": "Lightbox",
+    "bestandsnaam": "06",
+    "taal": "html",
+    "onderwerp": "html",
+    "kaart_nummer": 6,
+    "totaal_aantal_kaarten": 6,
+    "serie_titel": "Gevorderden HTML/CSS",
+    "auteur": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  }
+}
