@@ -1,0 +1,92 @@
+{
+  "01": {
+    "title": "C Style",
+    "filename": "01",
+    "language": "c",
+    "subject": "c",
+    "card_number": 1,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "02": {
+    "title": "Game Design Style",
+    "filename": "02",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 2,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "03": {
+    "title": "HTML Style",
+    "filename": "03",
+    "language": "html",
+    "subject": "html",
+    "card_number": 3,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "04": {
+    "title": "Java Style",
+    "filename": "04",
+    "language": "java",
+    "subject": "java",
+    "card_number": 4,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "05": {
+    "title": "Javascript Style",
+    "filename": "05",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 5,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "06": {
+    "title": "Huh? Style",
+    "filename": "06",
+    "language": "php",
+    "subject": "php",
+    "card_number": 6,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "07": {
+    "title": "Pyhton Style",
+    "filename": "07",
+    "language": "python",
+    "subject": "pyhton",
+    "card_number": 7,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "08": {
+    "title": "Ruby Style",
+    "filename": "08",
+    "language": "ruby",
+    "subject": "ruby",
+    "card_number": 8,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "09": {
+    "title": "Sushi Style",
+    "filename": "09",
+    "language": "sushi cards",
+    "subject": "sushi cards",
+    "card_number": 9,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  },
+  "10": {
+    "title": "H4X0R!NG Style",
+    "filename": "10",
+    "language": "h4x0ring",
+    "subject": "python",
+    "card_number": 10,
+    "series_total_cards": 10,
+    "series_title": "Learn Sushi Style"
+  }
+}

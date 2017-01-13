@@ -1,0 +1,62 @@
+{
+  "serie_title": "Learn Sushi Style",
+  "language": "en",
+  "subject": "sushi",
+  "cards": [
+    {
+      "title": "C style",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Game Design style",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "HTML Style",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Java Style",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Javascript Style",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Huh? Style",
+      "filename": "06",
+      "card_number": 6
+    },
+    {
+      "title": "Python Style",
+      "filename": "07",
+      "card_number": 7
+    },
+    {
+      "title": "Ruby style",
+      "filename": "08",
+      "card_number": 8
+    },
+    {
+      "title": "Sushi style",
+      "filename": "09",
+      "card_number": 9
+    },
+    {
+      "title": "h4x0r!ng style",
+      "filename": "10",
+      "card_number": 10
+    }
+  ],
+  "description": "Minimal overview of sushi styles for aspiring sushi chefs",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}
