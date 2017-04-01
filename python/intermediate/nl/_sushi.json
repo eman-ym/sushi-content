@@ -1,0 +1,42 @@
+{
+  "serie_title": "Leren programmeren",
+  "language": "nl",
+  "subject": "python",
+  "description": "Voor ninja's die de Beginner Python Kaarten doorlopen hebben en iets uitdagenders willen.",
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo",
+  "difficulty": 2,
+  "cards": [
+    {
+      "title": "Lijsten",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "For lussen",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Woordenboeken",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Functies",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Bestanden",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Uitdaging!",
+      "filename": "06",
+      "card_number": 6
+    }
+  ]
+}

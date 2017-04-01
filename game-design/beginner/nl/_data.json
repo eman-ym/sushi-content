@@ -1,0 +1,56 @@
+{
+  "01": {
+    "title": "Winnen en Verliezen",
+    "filename": "01",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 1,
+    "series_total_cards": 6,
+    "series_title": "12 onderdelen die elk videospel heeft"
+  },
+  "02": {
+    "title": "Spelonderdelen",
+    "filename": "02",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 2,
+    "series_total_cards": 6,
+    "series_title": "12 onderdelen die elk videospel heeft"
+  },
+  "03": {
+    "title": "De speler en het spel",
+    "filename": "03",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 3,
+    "series_total_cards": 6,
+    "series_title": "12 onderdelen die elk videospel heeft"
+  },
+  "04": {
+    "title": "Spelervaring",
+    "filename": "04",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 4,
+    "series_total_cards": 6,
+    "series_title": "12 onderdelen die elk videospel heeft"
+  },
+  "05": {
+    "title": "Thema",
+    "filename": "05",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 5,
+    "series_total_cards": 6,
+    "series_title": "12 onderdelen die elk videospel heeft"
+  },
+  "06": {
+    "title": "Je spel opbouwen",
+    "filename": "06",
+    "language": "game design",
+    "subject": "game design",
+    "card_number": 6,
+    "series_total_cards": 6,
+    "series_title": "12 onderdelen die elk videospel heeft"
+  }
+}

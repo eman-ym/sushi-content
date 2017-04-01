@@ -1,0 +1,17 @@
+{
+  "taal": "nl",
+  "cards": [
+  {
+    "card_number": 1,
+    "title": "Sushi Kaarten maken",
+    "filename": "01"
+  }
+  ],
+  "series_title": "Sushi Kaarten maken",
+  "descrtiption": "Leert je om Sushi Kaarten te maken met nieuwe Sushi Generator programma's!",
+  "subject": "sushi kaarten",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}

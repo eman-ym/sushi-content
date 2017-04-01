@@ -1,0 +1,65 @@
+{
+  "01": {
+    "title": "Python Configuratie",
+    "filename": "01",
+    "language": "python",
+    "subject": "python",
+    "card_number": 1,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  },
+  "02": {
+    "title": "Je eerste Python programma",
+    "filename": "02",
+    "language": "python",
+    "subject": "python",
+    "card_number": 2,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  },
+  "03": {
+    "title": "Praten met de gebruiker",
+    "filename": "03",
+    "language": "python",
+    "subject": "python",
+    "card_number": 3,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  },
+  "04": {
+    "title": "Vergelijken & 'if' uitdrukkingen",
+    "filename": "04",
+    "language": "python",
+    "subject": "python",
+    "card_number": 4,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  },
+  "05": {
+    "title": "Bijzondere 'if' uitdrukkingen",
+    "filename": "05",
+    "language": "python",
+    "subject": "python",
+    "card_number": 5,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  },
+  "06": {
+    "title": "Lussen",
+    "filename": "06",
+    "language": "python",
+    "subject": "python",
+    "card_number": 6,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  },
+  "07": {
+    "title": "Een spel maken",
+    "filename": "07",
+    "language": "python",
+    "subject": "python",
+    "card_number": 7,
+    "series_total_cards": 7,
+    "series_title": "Beginnen met Python"
+  }
+}

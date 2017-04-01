@@ -1,0 +1,47 @@
+{
+  "serie_title": "Beginnen met Python",
+  "language": "nl",
+  "subject": "python",
+  "cards": [
+    {
+      "title": "Python Configuratie",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Je eerste Python programma",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Praten met de gebruiker",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Vergelijken en 'if' uitdrukkingen",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Bijzondere 'if' uitdrukkingen",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Lussen",
+      "filename": "06",
+      "card_number": 6
+    },
+    {
+      "title": "Een spel maken!",
+      "filename": "07",
+      "card_number": 7
+    }
+  ],
+  "description": "Een introductie in Python, voor ninja's die nog nooit geprogrammeerd hebben",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}

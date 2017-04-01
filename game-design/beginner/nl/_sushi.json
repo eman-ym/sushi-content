@@ -1,0 +1,42 @@
+{
+  "series_title": "12 onderdelen die elk videospel heeft",
+  "language": "nl",
+  "subject": "game design",
+  "cards": [
+    {
+      "title": "Winnen en Verliezen",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Spelonderdelen",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "De speler en het spel",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Spelervaring",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Thema",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Je spel opbouwen",
+      "filename": "06",
+      "card_number": 6
+    }
+  ],
+  "description": "Leer de basis voor het maken van geweldige videospellen!",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}

@@ -1,0 +1,42 @@
+{
+  "series_title": "HTML/CSS Gevorderden",
+  "language": "nl",
+  "subject": "html",
+  "description": "Gebruik wat je geleerd hebt in eerdere HTML series en pas het toe om een geweldige website te bouwen",
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "@CoderDojo",
+  "difficulty": 3,
+  "cards": [
+    {
+      "title": "Een Website Bouwen",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Raamwerk van je Website",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Basis Menu",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Een Geweldig Menu",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Fantastische Koppen",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Lightbox",
+      "filename": "06",
+      "card_number": 6
+    }
+  ]
+}

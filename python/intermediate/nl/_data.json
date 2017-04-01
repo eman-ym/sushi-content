@@ -1,0 +1,56 @@
+{
+  "01": {
+    "title": "Lijsten",
+    "filename": "01",
+    "language": "python",
+    "subject": "python",
+    "card_number": 1,
+    "series_total_cards": 6,
+    "series_title": "Python Vervolg"
+  },
+  "02": {
+    "title": "For lussen",
+    "filename": "02",
+    "language": "python",
+    "subject": "python",
+    "card_number": 2,
+    "series_total_cards": 6,
+    "series_title": "Python Vervolg"
+  },
+  "03": {
+    "title": "Woordenboeken",
+    "filename": "03",
+    "language": "python",
+    "subject": "python",
+    "card_number": 3,
+    "series_total_cards": 6,
+    "series_title": "Python Vervolg"
+  },
+  "04": {
+    "title": "Functies",
+    "filename": "04",
+    "language": "python",
+    "subject": "python",
+    "card_number": 4,
+    "series_total_cards": 6,
+    "series_title": "Python Vervolg"
+  },
+  "05": {
+    "title": "Bestanden",
+    "filename": "05",
+    "language": "python",
+    "subject": "python",
+    "card_number": 5,
+    "series_total_cards": 6,
+    "series_title": "Python Vervolg"
+  },
+  "06": {
+    "title": "Uitdaging!",
+    "filename": "06",
+    "language": "python",
+    "subject": "python",
+    "card_number": 6,
+    "series_total_cards": 6,
+    "series_title": "Python Vervolg"
+  }
+}
